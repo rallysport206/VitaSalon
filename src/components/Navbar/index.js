@@ -8,8 +8,8 @@ const Navbar = () => {
                 <h1>Vita Salon</h1>
             </div>
             <div className='nav-items'>
-                <a herf='/'>Contact</a>
-                <a herf='/'>Location</a>
+                <a herf='tel:2067832031' target='_blank' rel='noopener noreferrer'>Contact</a>
+                <a herf='https://goo.gl/maps/5KFeMShkoquPxpMb8' target='_blank' rel='noopener noreferrer'>Location</a>
             </div>
         </nav>
     )

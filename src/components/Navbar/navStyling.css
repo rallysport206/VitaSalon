@@ -1,6 +1,6 @@
 nav {
     height: 5rem;
-    background: #fdcc04;
+    background: #28A439;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -8,7 +8,7 @@ nav {
 }
 
 .logo {
-    color: #000;
+    color: #fff;
     font-size: 1.5rem;
     font-weight: bold;
     font-style: italic;
@@ -17,11 +17,11 @@ nav {
 
 nav a {
     text-decoration: none;
-    color: #000;
+    color: #fff;
     padding: 0 1.5rem;
     cursor: pointer;
 }
 
 nav a:hover {
-    color: #fff;
+    color: rgb(42, 17, 182);
 }
