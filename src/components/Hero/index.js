@@ -5,7 +5,7 @@ const Hero = () => {
     return(
         <div className='hero-container'>
             <div className='column-left'>
-                <h1>Vita Solan</h1>
+                <h1>Vita Salon</h1>
                 <p>Styling people's hair since 1999!</p>
                 <button>Contact Us for an Appointment!</button>
             </div>
