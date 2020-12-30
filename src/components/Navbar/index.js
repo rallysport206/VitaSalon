@@ -4,7 +4,9 @@ import './navStyling.css';
 const Navbar = () => {
     return(
         <nav>
-            <div className='logo'></div>
+            <div className='logo'>
+                <h1>Vita Salon</h1>
+            </div>
             <div className='nav-items'>
                 <a herf='/'>Contact</a>
                 <a herf='/'>Location</a>
