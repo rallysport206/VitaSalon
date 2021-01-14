@@ -1,6 +1,6 @@
 import React from 'react';
 import './heroStyling.css';
-import barber from '../images/barber.svg';
+import store from '../images/vitaFront.png';
 
 const Hero = () => {
     return(
@@ -20,7 +20,7 @@ const Hero = () => {
                 {/* <button>Contact Us for an Appointment!</button> */}
             </div>
             <div className='column-right'>
-                <img src={barber} alt='barber' className='hero-image'></img>
+                {/* <img src={store} alt='barber' className='hero-image'></img> */}
             </div>
         </div>
     )

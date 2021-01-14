@@ -1,9 +1,11 @@
-.hero-container {
-    display: flex;
-    background: #f8f8ff;
-    height: 95vh;
-    padding: 1.8rem;
+body, html {
+    background: url('../images/vitaFront.png');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
 
 .column-left {
     display: flex;
@@ -36,7 +38,6 @@
 
 button {
     padding: 1rem 3rem;
-    font-color: white;
     font-size: 1rem;
     border: none;
     background: blue;
