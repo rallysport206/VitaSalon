@@ -9,7 +9,7 @@ const Hero = () => {
                 <img className="hero-section__image" src={store} alt='store front' /> 
             </div>
             <div className='content'>
-                <h1>Welcome to Vita Beauty Salon</h1>
+                <h1 className='hero-section__title'>Welcome to Vita Beauty Salon</h1>
                 <p>Serving you in the heart of Greenwood </p>
                 <p className='hero-info'><a href='https://goo.gl/maps/5KFeMShkoquPxpMb8' target='_blank' rel='noopener noreferrer'>
                 326 NW 85th St
